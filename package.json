@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  }
+}
